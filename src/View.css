@@ -1,0 +1,11 @@
+
+.viewDiv{
+    margin: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.view{
+    width: 350px;    
+}
